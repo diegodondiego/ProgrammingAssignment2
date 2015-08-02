@@ -1,4 +1,3 @@
-
 # cache the matrix
 makeCacheMatrix <- function(theMatrix = matrix()) {
         invertedMatrix <- NULL
