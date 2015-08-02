@@ -2,3 +2,4 @@
 .Rhistory
 .RData
 ProgrammingAssignment2.Rproj
+*.out
